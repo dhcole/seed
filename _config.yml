@@ -1,0 +1,14 @@
+# Site settings
+header: true
+footer: false
+
+# Site status
+hidden: true
+
+# Server configuration
+auto: true
+server: true
+markdown: rdiscount
+exclude: README.md
+permalink: pretty
+baseurl: 
